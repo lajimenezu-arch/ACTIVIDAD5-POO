@@ -1,5 +1,4 @@
 # ACTIVIDAD5-POO
-# ACTIVIDAD5-POO
 # Actividad 5 - Interfaz Gráfica de Usuario (GUI)
 
 ## Información General
