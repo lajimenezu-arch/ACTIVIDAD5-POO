@@ -1,0 +1,21 @@
+Nombre = juanito
+Apellidos = alimaña
+Cargo = DIRECTIVO
+Género = MASCULINO
+Salario = $200000.0
+Días trabajados = 30
+Otros ingresos = $800000.0
+Pagos salud = $600000.0
+Aportes pensiones = $300000.0
+---------
+Nombre = pepito
+Apellidos = perez
+Cargo = ESTRATÉGICO
+Género = MASCULINO
+Salario = $100000.0
+Días trabajados = 30
+Otros ingresos = $600000.0
+Pagos salud = $300000.0
+Aportes pensiones = $100000.0
+---------
+Total nómina = $9100000.00
